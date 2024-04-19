@@ -49,7 +49,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
             @Override
             public void onClick(View v) {
                 // Get the key of the item to be deleted
-                String key = dataList.get(holder.getAdapterPosition()).getKey();
+                /*String key = dataList.get(holder.getAdapterPosition()).getKey();*/
 
                 // Get a reference to the image in Firebase Storage
                 StorageReference storageRef = FirebaseStorage.getInstance().getReferenceFromUrl(img);
