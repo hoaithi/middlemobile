@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805238087836",
+    "project_id": "middleproject-ac7ad",
+    "storage_bucket": "middleproject-ac7ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805238087836:android:db750f21fa13f7ae968d59",
+        "android_client_info": {
+          "package_name": "com.example.middleproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2_UqVcImLARb93y9myigPIY6YX3btmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
